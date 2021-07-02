@@ -1,4 +1,13 @@
-![Banner](https://user-images.githubusercontent.com/65429873/124314444-b25b1380-db72-11eb-9242-808b5f2fa0b1.png)
+### Why do programmers have to wear glasses?
+#### Cuz' they need to C#
+
+
+### Welcome :)
+I am a guy, I love programming and anime 🐾
+
+Trying to be independent and code for myself.
+
+
 
 Currently working on this. Some things may be wrong, since I am still testing
 

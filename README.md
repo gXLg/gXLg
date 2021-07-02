@@ -1,5 +1,7 @@
-**Why do programmers have to wear glasses?**
-* **Cuz' they need to C#**
+Why do programmers have to wear glasses?
+* Cuz' they need to C# :)
+
+![wp](https://user-images.githubusercontent.com/65429873/124316689-47134080-db76-11eb-9d3e-ca08cbd5e8e3.png)
 
 
 ### Welcome :)

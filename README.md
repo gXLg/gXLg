@@ -1,6 +1,7 @@
 Currently working on this.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 My badges:
 

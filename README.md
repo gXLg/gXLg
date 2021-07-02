@@ -1,9 +1,10 @@
-Currently working on this.
+Currently working on this. Some things may be wrong, since I am still testing
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-My badges:
+Test
+![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ![codewars](https://www.codewars.com/users/Kemuri/badges/large)
 

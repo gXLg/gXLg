@@ -4,7 +4,7 @@ Currently working on this. Some things may be wrong, since I am still testing
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Test
-![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Made withJupyter](https://img.shields.io/badge/-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ![codewars](https://www.codewars.com/users/Kemuri/badges/large)
 

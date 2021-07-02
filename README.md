@@ -1,6 +1,9 @@
 Currently working on this.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gXLg&theme=cobalt&show_icons=true)
+
 ![codewars](https://www.codewars.com/users/Kemuri/badges/micro)
+
 <!--
 **gXLg/gXLg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

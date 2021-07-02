@@ -2,6 +2,8 @@ Currently working on this.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
 
+My badges:
+
 ![codewars](https://www.codewars.com/users/Kemuri/badges/micro)
 
 <!--

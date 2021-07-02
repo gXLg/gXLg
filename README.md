@@ -1,5 +1,5 @@
 **Why do programmers have to wear glasses?**
-  **Cuz' they need to C#**
+* **Cuz' they need to C#**
 
 
 ### Welcome :)

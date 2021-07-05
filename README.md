@@ -31,6 +31,6 @@ I did not write it for you
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)
 
-## Acievements
+## Achievements
 
 [![codewars](https://www.codewars.com/users/Kemuri/badges/large)](https://www.codewars.com/users/Kemuri)

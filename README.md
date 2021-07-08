@@ -10,6 +10,9 @@ I am a guy, 16 y/o, I love programming and anime 💕
 
 I am trying to be independent, code for myself and enjoy my life.
 
+I am known as `Kemuri`, `Kemuri Senpai`, `gXLg`, `GamerXL` or `/dev/null`.
+My real name is `Dima`.
+
 #### Languages
 - Russian 🇷🇺 My mother's language
 - English 🇬🇧

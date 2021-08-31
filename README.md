@@ -6,7 +6,7 @@ Why do game devs have to wear glasses? *Cuz' they need to C# :)*
 ## Welcome :)
 
 #### About me
-I am a guy, 16 y/o, I love programming and anime 💕
+I am a guy, 17 y/o, I love programming and anime 💕
 
 I am trying to be independent, code for myself and enjoy my life.
 

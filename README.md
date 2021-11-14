@@ -1,6 +1,6 @@
 Why do game devs have to wear glasses? *Cuz' they need to C# :)*
 
-<img src="https://user-images.githubusercontent.com/65429873/124316689-47134080-db76-11eb-9d3e-ca08cbd5e8e3.png" height="280px" width="480px"/>
+<img src="https://user-images.githubusercontent.com/65429873/124316689-47134080-db76-11eb-9d3e-ca08cbd5e8e3.png" height="300px" width="480px"/>
 
 
 ## Welcome :)

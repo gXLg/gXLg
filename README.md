@@ -13,7 +13,7 @@ I am trying to be independent, code for myself and enjoy my life.
 I am known as `Kemuri Senpai`, `gXLg`, `GamerXL` or `/dev/null`.
 My real name is `Dima`.
 
-Once I will disappear in /dev/null, but I will forever stay in your /dev/mem.
+> Once I will disappear in /dev/null, but I will forever stay in your /dev/mem.
 
 #### Languages
 - Russian 🇷🇺 My mother's language
@@ -23,12 +23,6 @@ Once I will disappear in /dev/null, but I will forever stay in your /dev/mem.
 
 #### Contacts
 - Discord: [`sas24#9133`](https://discordapp.com/users/557260090621558805)
-
-#### My motto
-If you don't like my code, remember:
-
-I did not write it for you
-
 
 ## My activity
 

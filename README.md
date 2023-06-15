@@ -22,7 +22,7 @@ My real name is `Dima`.
 - Japanese 🇯🇵 Struggling to learn
 
 #### Contacts
-- Discord: [`sas24#9133`](https://discordapp.com/users/557260090621558805)
+- Discord: [`@gxlg`](https://discordapp.com/users/557260090621558805)
 
 ## My activity
 

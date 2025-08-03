@@ -1,6 +1,6 @@
 Why do game devs have to wear glasses? *Cuz' they need to C# :)*
 
-<img src="https://user-images.githubusercontent.com/65429873/141671952-c28363d9-3265-4919-934e-0e90a7a755a5.jpg" />
+<img src="https://user-images.githubusercontent.com/65429873/141671952-c28363d9-3265-4919-934e-0e90a7a755a5.jpg" width="200"/>
 
 
 ## Welcome :)
@@ -16,21 +16,16 @@ My real name is `Dima`.
 > Once I will disappear in /dev/null, but I will forever stay in your /dev/mem.
 
 #### Languages
-- Russian 🇷🇺 My mother's language
-- English 🇬🇧
-- German 🇩🇪 The language of where I live
-- Japanese 🇯🇵 Struggling to learn
+- Native: Russian 🇷🇺
+- Fluent in: English 🇬🇧, German 🇩🇪
+- Learning: Japanese 🇯🇵
 
-#### Contacts
-- Discord: [`@gxlg`](https://discordapp.com/users/557260090621558805)
+#### Contact
+- Discord Community: [gXLg Lounge](https://discord.gg/aYBrWe5Jtt)
 
-## My activity
+## Activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact)
-
-## Achievements
-
-[![codewars](https://www.codewars.com/users/Kemuri/badges/large)](https://www.codewars.com/users/Kemuri)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gXLg&theme=dark&show_icons=true" width="80%" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gXLg&theme=dark&layout=compact" width="80%" />
+</p>

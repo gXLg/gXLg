@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/65429873/141671952-c28363d9-3265-4919-934e-0e90a7a755a5.jpg" width="420" height="200"/>
   <br>
   <br>
-  Why is Megumin blushing? <i>Cuz' she can't C</i>
+  Why is Megumin squinting her eyes? <i>Cuz' she can't C</i>
 </div>
 
 ## Welcome :)
